@@ -1,0 +1,4 @@
+Hello,
+I am a test file.
+Hopefully the characters and lines
+will be read correctly and counted.
